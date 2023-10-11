@@ -8,5 +8,7 @@
 ![Снимок экрана 2023-10-11 в 17 24 55](https://github.com/zzheludeva/images/assets/111062481/f2ad32e5-1e88-4bf1-9b95-0978551c96b5)
 
 Источники: 
+
 https://habr.com/ru/articles/678260/ — разбиение на каналы
+
 https://pythonpip.ru/osnovy/klassifikatsiya-shablonov-proektirovaniya — размытие
